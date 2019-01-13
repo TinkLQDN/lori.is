@@ -7,14 +7,30 @@
       body {
           padding: 1em;
           margin: 0;
-          border-top: 2px solid red;
+          min-height: 100vh;
+          border-width: 2px 0px 2px 0px;
+          border-style: solid;
+          border-color: red;
           font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 14px;
+          line-height: 1.428571429;
+          color: #666666;
+          background-color: #ffffff;
+      }
+      h1, h2, h3, h4 {
+          color: #333333;
+      }
+      .lrname {
+          font-weight: 500;
       }
       .vcard {
           font-size: 16px;
           max-width: 900px;
           min-height: 90vh;
           margin: auto;
+      }
+      .vcard p {
+          max-width: 600px;
       }
       .vcard img {
           float: right;
@@ -30,20 +46,21 @@
       .contact-me dt {
           font-weight: bold;
           display: inline-block;
+          float: left;
+          margin-right: 1em;
       }
       .contact-me dd {
-          display: inline-block;
+          display: block;
       }
     </style>
 </head>
 <body>
     
 <div class="vcard" id="hcard-Lori-Roussey">
-<h1>Lori Roussey</h1>
-<p class=""></p>
+<h1 class="lrname">Lori Roussey</h1>
 <img class="u-photo" alt="Lori Roussey" title="Lori Roussey" src="/img/lori.png" />
 <p>
-My name's <span class="fn" title="Lori Roussey">Lori</span>. I work on data protection and cybersecurity.
+My name's <span class="fn" title="Lori Roussey">Lori</span>. I am a lawyer specialised in European Data Protection and Cybersecurity Law. 
 </p>
 
 <h2 class="contact-me">Contact</h2>
@@ -51,6 +68,17 @@ My name's <span class="fn" title="Lori Roussey">Lori</span>. I work on data pro
 <dl class="contact-me" id="contact">
   <dt>Email</dt>
   <dd>helloworld @ lori . is</dd>
+  <dt>Twitter</dt>
+  <dd><a href="//twitter.com/RousseyLori">@RousseyLori</a></dd>
+</dl>
+
+<h2 class="projects">Projects</h2>
+
+<dl class="projects" id="projects">
+  <!-- <dt>Cybersecurity, data protection and strategic litigation project</dt> -->
+  <!-- <dd></dd> -->
+  <dt><a href="//exegetes.eu.org/">Exégètes Amateurs</a> (2015-2018)</dt>
+  <dd>Member of France's civil society organisation the Exegetes, the litigation team behind prominent cases against French surveillance laws.</dd>
 </dl>
 </div>
 
