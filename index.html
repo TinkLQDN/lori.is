@@ -33,9 +33,17 @@
       .vcard p {
           max-width: 600px;
       }
-      .vcard img {
+      .vcard .u-photo {
           float: right;
           margin-bottom: 1em;
+          box-shadow: 0 0 .5em rgba(0,0,0,0.3);
+          border-width: 0;
+          border-style: solid;
+          border-radius: 50%;
+      }
+      @media (max-width:768px){
+          width: 48px;
+          height: 48px;
       }
       footer {
           padding-bottom: 1em;
