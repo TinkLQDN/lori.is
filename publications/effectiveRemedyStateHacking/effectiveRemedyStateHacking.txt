@@ -1,6 +1,6 @@
 ---
 title: "Effective Remedy in the Context of Hacking by Intelligence Services"
-author: "[Lori Roussey](#Lori-Roussey)"
+author: "Lori Roussey"
 date: "2017"
 ...
 
@@ -15,12 +15,6 @@ Keywords: data protection, cybersecurity, digital rights, strategic litigation,
 FIXME
 
 ---------------------------------------------------------------------------------
-
-
-
-
-10000 10000
-
 
 
 
@@ -178,8 +172,6 @@ during the preparation of the French 2015 Intelligence Bill:
 The provision of effective remedy, going hand in hand with fair
 reparation, enables the enshrinement of what constitutes the essence of
 the rule of law.
-
-<div style=height:100px;></div>
 
 ## Remedy Avenues in Intelligence Services Hacking Related Cases
 
@@ -573,14 +565,9 @@ regarding the services’ activities and techniques as well as the
 unravelling of proceedings before Courts and oversight bodies. In order
 to illustrate and reflect on the report’s conclusions, French national
 provisions on intelligence services’ hacking and the remedy avenues
-provided by thereto shall be scurinized extensively.
-
-
-<div style=height:100px;></div><div style=height:100px;></div><div style=height:100px;></div>
+provided by thereto shall be scurinized extensively. 
 
 ### 2\) Case Study: France, Between Autonomy and Heteronomy
-
-<div style=height:100px;></div>
 
 France’s case is one of particular interest as it is a historically
 strong state, economics and intelligence-wise. While it has inextricably
@@ -596,10 +583,7 @@ fundamental rights found and enforced by supranational courts and the
 guidance emanating from organisations such as the UN. For these reasons
 this country will be extensively studied as regards its legal framework,
 its remedy avenues and the effectivity of the right to effective remedy
-in
-practice.
-
-<div style=height:100px;></div><div style=height:100px;></div><div style=height:100px;></div>
+in practice.
 
 #### A) French Legal Framework Pertaining to CNEs and Effective Remedy
 
@@ -1728,7 +1712,7 @@ judge Quéméner\[112\] acknowledging that digital proofs are subject to
 acute questioning in courts. One cannot but fully agree with the fact
 that the reliability of proofs is a milestone of a fair trial. To
 reconcile this and fundamental rights, courts should enshrine a right to
-meticulous and methodical investigation of hacking complaints, in
+meticulous and methodical investigatio n of hacking complaints, in
 particular when they might pertain to intelligence services activity.
 
 This way, more reliable evidence would underpin the parties’ arguments
