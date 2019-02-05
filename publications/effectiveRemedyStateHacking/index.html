@@ -23,6 +23,24 @@
           margin: auto;
           font-size: 16px;
       }
+      .master-thesis .title-block-header {
+          background: white;
+          padding: 10px 25px;
+          border: 1px solid white;
+          border-radius: 5px;
+          box-shadow: 0 0.1em .5em rgba(0,0,0,0.1);
+          max-width: 100%;
+      }
+      @media (max-width:768px){
+      .master-thesis .title-block-header {
+          margin: 1.5em 0;
+      }
+      }
+      @media (min-width:769px){
+      .master-thesis .title-block-header {
+          margin: 1.5em -25px;
+      }
+      }
       .master-thesis p {
           /* Disable until browsers get better at this hyphens: auto;*/
       }
@@ -148,7 +166,7 @@
 
 <main class="master-thesis" lang="en-gb">
 
-<header id="title-block-header">
+<header id="title-block-header" class="title-block-header">
 <h1 class="title">Effective Remedy in the Context of Hacking by Intelligence Services</h1>
 <p class="author">Lori Roussey</p>
 <p class="date">2017</p>
