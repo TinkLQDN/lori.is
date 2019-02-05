@@ -147,16 +147,29 @@
           margin: auto;
           font-weight: 300;
       }
-      .view-as {
-          text-align: right;
-          font-family: monospace;
+      .download-as {
           font-size: 85%;
       }
-      .view-as a:before {
-          content: "[";
+      .download-as a {
+          font-weight: 900;
+          font-size: 70%;
+          display: inline-block;
+          border: 2px outset #333;
+          background: #999;
+          color: white;
+          text-decoration: none;
+          vertical-align: middle;
+          padding: 0 3px;
       }
-      .view-as a:after {
-          content: "]";
+      .download-as a:hover {
+          border-style: inset
+      }
+      .download-as .pdf {background: #ff2e22;border-color: #ff655d;}
+      .download-as .md {display: none;}
+      .abstract-label {
+          font-size: 80%;
+          font-weight: 500;
+          margin:1em 0 -0.5em 0;
       }
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
@@ -175,16 +188,17 @@
 </head>
 <body>
 
-<div class="view-as">
- <span>view as:</span> <a href="./effectiveRemedyStateHacking.pdf" class="pdf">PDF</a> <a href="./effectiveRemedyStateHacking.txt" class="md">Markdown</a>
-</div>
-
 <main class="master-thesis" lang="en-gb">
 
 <header id="title-block-header" class="title-block-header">
 <h1 class="title">Effective Remedy in the Context of Hacking by Intelligence Services</h1>
 <p class="author">Lori Roussey</p>
 <p class="date">2017</p>
+<div class="download-as">
+ <span>download as:</span> <a href="./effectiveRemedyStateHacking.pdf" class="pdf" download>PDF</a> <a href="./effectiveRemedyStateHacking.txt" class="md">Markdown</a>
+</div>
+
+<p class="abstract-label">Abstract</p>
 <p class="abstract">This master thesis was written under the direction of judge Myriam Quéméner and attorney at law Brad Spitz, who I wish to express my gratitude for their guidance and support.</p>
 </header>
 <nav id="TOC">
