@@ -7,6 +7,19 @@ date: "2017"
 
 ---------------------------------------------------------------------------------
 
+This dissertation attempts to cast a legal perspective on the right to
+effective remedy in the context of intelligence services’ recourse or
+acquisition of hacking tools. It attempts to provide elements and
+insights on public and private law principles regarding redress applied
+to the recourse to hacking tools by intelligence services, as well as
+the implications entailed by transfers of such tools to private persons
+or between services. Prior to obtaining damages or any form of
+compensation for his losses one first needs to be given legal minimum
+safeguards against hacking by intelligence services. For this reason,
+this paper will begin by the assessment of existing safeguards as well
+as potential redress avenues. This assessment shall then be completed by
+a reflection on what could lead to a satisfactory reparation.
+
 This master thesis was written under the direction of judge Myriam
 Quéméner and attorney at law Brad Spitz, who I wish to express my
 gratitude for their guidance and support.
