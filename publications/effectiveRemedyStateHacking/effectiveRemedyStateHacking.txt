@@ -21,7 +21,7 @@ FIXME
 
 
 
-## Introduction
+# Introduction
 
 On May 12 2017, numerous patients at the UK National Health Service
 (NHS) who needed to undergo medical operations did not get to see a
@@ -173,7 +173,7 @@ The provision of effective remedy, going hand in hand with fair
 reparation, enables the enshrinement of what constitutes the essence of
 the rule of law.
 
-## Remedy Avenues in Intelligence Services Hacking Related Cases
+# Remedy Avenues in Intelligence Services Hacking Related Cases
 
 The provision of redress mechanisms is a fundamental principle in
 private law, to secure access to justice and effective remedy.
@@ -213,7 +213,7 @@ services.
 *Potential unbattered remedy avenues* After that, potential unexplored
 of future remedy avenues will be considered.
 
-### 1\) International Stipulations and case-law
+## 1\) International Stipulations and case-law
 
 To address the pressing issue of the resort to CNE by services, it is of
 foremost importance to begin with an overview of the international
@@ -221,16 +221,16 @@ framework applicable to guide the recourse to such techniques. Then this
 overview will be completed with the interpretation opted for by regional
 courts.
 
-#### A) International Stipulations on Effective Remedy and Hacking by Intelligence Services
+### A) International Stipulations on Effective Remedy and Hacking by Intelligence Services
 
 First, this chapter shall introduce the relevant legal framework
 applying to the effective remedy criterion in international and regional
 laws. This presentation will be followed by the overview of the legal
 framework applicable in case of CNE and the exchange of CNE tools.
 
-##### The Effective Remedy Criterium in International and Regional Law
+#### The Effective Remedy Criterium in International and Regional Law
 
-###### From a United Nations (UN) Perspective
+##### From a United Nations (UN) Perspective
 
 The effective remedy principle is enshrined in the Universal Declaration
 of Human Rights (UDHR) of 1948\[16\] and in the 2005 Basic Principles
@@ -273,7 +273,7 @@ It is noteworthy to stress that the Guidelines expressly put emphasis on
 the fact that its remedy and reparation stipulations shall not be
 derogated from\[22\].
 
-###### The International Covenant on Civil and Political Rights (ICCPR)
+##### The International Covenant on Civil and Political Rights (ICCPR)
 
 The ICCPR\[23\] reinforces safeguards, providing that States must
 undertake to ensure that any person whose rights or freedoms are
@@ -292,7 +292,7 @@ CNE by intelligence services, by highlighting in fine that effective
 remedy shall be assumed, “notwithstanding that the violation has been
 committed by persons acting in an official capacity”\[25\].
 
-###### The European Convention on Human Rights (ECHR)
+##### The European Convention on Human Rights (ECHR)
 
 For its part, pursuant to its Article 13 the ECHR\[26\] ensures the
 protection of the right to an effective remedy. Unlike the ICCPR, the
@@ -303,14 +303,14 @@ wording as the ICCPR that effective remedy shall be assumed,
 “notwithstanding that the violation has been committed by persons
 acting in an official capacity”\[27\].
 
-###### The EU Charter
+##### The EU Charter
 
 By the same token, the EU Charter\[28\] affords similar guarantees at
 its Article 47 and associates the right to an effective remedy with the
 right to a fair trial and effective access to justice\[29\], ensuring
 individuals the power to challenge authorities.
 
-###### The African Charter on Human and Peoples’ Rights (ACHPR)
+##### The African Charter on Human and Peoples’ Rights (ACHPR)
 
 To finish, though rudimentary worded, the ACHPR\[30\] provides in its
 turn for a form of effective remedy. Yet, this example remains anecdotal
@@ -327,9 +327,9 @@ to a fair trial, to access to justice and to reparation. Let us now
 ponder on the effective remedy principle from an CNE
 perspective.
 
-##### CNE and Remedy Avenues in Case of Hacking Related Damages
+#### CNE and Remedy Avenues in Case of Hacking Related Damages
 
-###### CNE and Associated Redress Avenues in the Light of the Budapest Convention on Cybercrime
+##### CNE and Associated Redress Avenues in the Light of the Budapest Convention on Cybercrime
 
 The Budapest Convention on Cybercrime\[32\] is a particularly notable
 legal instrument as it is the first and most prominent international
@@ -378,7 +378,7 @@ applicable international human rights treaties”. Its enforceability is
 hence considerably diminished. So far the Convention has no case-law
 interpreting its provisions.
 
-###### UN on CNEs: State of Negotiations
+##### UN on CNEs: State of Negotiations
 
 *Slow negotiations* The UN has been gathering countries around the table
 to draw up a common instrument regarding CNEs for several years. A
@@ -408,7 +408,7 @@ the matter calls for a detailed analysis of the interpretation opted for
 by the Courts on matters of effective remedy in surveillance
 cases.
 
-#### B) International Case-law on Effective Remedy Applied to Surveillance
+### B) International Case-law on Effective Remedy Applied to Surveillance
 
 *Technical neutrality* In the first place, it is of foremost importance
 for the reader to bear in mind that following the ECtHR *R.E. v. U.K.*
@@ -420,7 +420,7 @@ definition of that interference”(*R.E. v. U.K.* (62498/11) ECtHR,
 be drawn throughout this chapter to read the European Courts’ case-law
 in the light of hacking by intelligence services.
 
-##### European Court of Human Rights (ECtHR) Case-law
+#### European Court of Human Rights (ECtHR) Case-law
 
 *The right to an effective remedy as a mean to guarantee other
 fundamental rights* As seen above, the European Convention on Human
@@ -495,7 +495,7 @@ such remedy avenues could be leave room for interpretation and
 discretion, even though the assessment in concreto is a robust
 safeguard.
 
-##### European Court of Justice (ECJ) Case-law
+#### European Court of Justice (ECJ) Case-law
 
 *The ECJ to take the path of the ECtHR* Even if the European Union’s
 origins are rooted in commercial harmonisation, since the Snowden
@@ -567,7 +567,7 @@ to illustrate and reflect on the report’s conclusions, French national
 provisions on intelligence services’ hacking and the remedy avenues
 provided by thereto shall be scurinized extensively. 
 
-### 2\) Case Study: France, Between Autonomy and Heteronomy
+## 2\) Case Study: France, Between Autonomy and Heteronomy
 
 France’s case is one of particular interest as it is a historically
 strong state, economics and intelligence-wise. While it has inextricably
@@ -585,9 +585,9 @@ this country will be extensively studied as regards its legal framework,
 its remedy avenues and the effectivity of the right to effective remedy
 in practice.
 
-#### A) French Legal Framework Pertaining to CNEs and Effective Remedy
+### A) French Legal Framework Pertaining to CNEs and Effective Remedy
 
-##### Hacking by Intelligence Services
+#### Hacking by Intelligence Services
 
 *The French Penal Code* The French relevant provisions on CNEs and CNAs
 per se can be found at Article L853-2\[40\] of the ISC and in Chapter
@@ -624,7 +624,7 @@ intelligence services. It is simply implied by Article 323-8 that
 carries a derogation for services when such CNEs are meant to protect
 France’s interests outside its borders.
 
-##### Transfers of CNE and CNA Tools
+#### Transfers of CNE and CNA Tools
 
 *Legitimate transfers* Regarding transfers of CNE and CNA data and
 programs the aforementioned Article 323-3 defines it but again, without
@@ -674,7 +674,7 @@ Therefore, today French intelligence services have numerous means to
 avoid accountability or oversight. A considerable impediment for one
 seeking remedy avenues. These shall now be studied.
 
-##### Remedy Avenues
+#### Remedy Avenues
 
 As already mentioned, the French Intelligence Act of 2015 have
 predominantly been codified in the eighth Book of the Internal Security
@@ -682,7 +682,7 @@ Code (ISC). So were the special remedy avenues for litigation against
 intelligence services’ techniques, that can be found at the fourth Title
 of the eighth Book of the Code.
 
-###### General Competence of the Council of State
+##### General Competence of the Council of State
 
 Pursuant to Article L801-1 ISC, the Council of State now has exclusive
 jurisdiction over such litigation.
@@ -712,7 +712,7 @@ secrecy. For instance, pursuant to Article R773-20 of the ISC, some of
 the evidence submitted to the court for analysis may not be disclosed to
 the other parties.
 
-###### Proceedings Brought by a Person
+##### Proceedings Brought by a Person
 
 *Who may refer a case before the CNCTR* Proceedings may be brought by
 any person - after having filed a complaint to the CNCTR -, or by the
@@ -756,7 +756,7 @@ recommendations not satisfactory, its President of three of its members
 may bring the case before the Council of
 State.
 
-###### The Flaws of the French Legal Framework Related to CNEs and Effective Remedy
+##### The Flaws of the French Legal Framework Related to CNEs and Effective Remedy
 
 The plausible violation of the Budapest Convention regarding hacking and
 the transfer of hacking tools
@@ -778,7 +778,7 @@ French provisions above appear to be in contradiction with France’s
 obligations towards other Parties to the main international law
 instrument pertaining hacking\[56\].
 
-# The Absence of Remedy Avenues Thereof
+###### The Absence of Remedy Avenues Thereof
 
 As it is inferred by Article L. 833-2 setting out the missions of the
 French intelligence oversight body, there is no remedy avenue for
@@ -830,7 +830,7 @@ contravene European Courts’ interpretation of the EU Charter and the
 European Convention on Human Rights, as well as international law,
 regarding the right to an effective remedy and the right to reparation.
 
-#### B) Confronting Theory with Practice: Current Proceedings
+### B) Confronting Theory with Practice: Current Proceedings
 
 *Trying the 2015 Intelligence Act mechanisms* Careful attention shall
 now be paid to proceedings brought in collaboration with “the
@@ -841,7 +841,7 @@ known to target hacking activities in particular, several proceedings
 brought through the remedy avenues created by the 2015 Intelligence Act
 shed light on the process.
 
-##### Verifications Before the CNCTR
+#### Verifications Before the CNCTR
 
 *M<sup>me</sup>A* The Exegetes volunteered to help a French citizen
 (“M<sup>me</sup> B… A…”, hereafter M<sup>me</sup> A) put this in
@@ -911,7 +911,7 @@ would carry tremendous computer security threats for all computer users.
 This may be the sign that the handling of Intelligence and hacking
 related cases should be subject to strict official guidelines.
 
-##### When No Remedy Avenue is Available
+#### When No Remedy Avenue is Available
 
 Another case led in collaboration with the Exegetes is worth mentioning
 to draw an analogy with remedy avenues available for victims of damages
@@ -964,7 +964,7 @@ has the merit to have possibly paved the way for a new redress avenue.
 In other words, the REP procedure could very well be the last resort of
 every CNE abuse victim when no procedural remedy seems available.
 
-###### Contravention with the Effective Remedy Standard
+##### Contravention with the Effective Remedy Standard
 
 Lastly, the in ’t Veld cases - like the Mme A. one - raise several
 procedural concerns regarding the right to an effective remedy.
@@ -1089,7 +1089,7 @@ Leading the experts to conclude their report by stressing that the
 services and governments demonstrate the need for a more careful
 assessment by judicial authorities.”\[70\]
 
-### 3\) Unbattered Redress Avenues
+## 3\) Unbattered Redress Avenues
 
 The very core of the notion of right bears with it the obligation to
 redress its violation. This is even more necessary in a context where it
@@ -1107,7 +1107,7 @@ of CNEs on private individuals, especially a non-European individual,
 make it next to impossible to use any specialised remedy avenue. For
 this reason, unbattered redress avenues shall be contemplated. 
 
-#### A) Data Protection 
+### A) Data Protection 
 
 As EU case-law illustrates it, the question of hacking by the services
 is intertwined with the question of the protection of natural persons’
@@ -1115,7 +1115,7 @@ private shpere. As a result, EU Data Protection law could provide with
 complementariy avenues in the newly adopted Privacy Shield decision or
 the 2016 General Data Protection Regulation (GDPR).
 
-##### The Ombudsman Avenue Set Up by the Privacy Shield
+#### The Ombudsman Avenue Set Up by the Privacy Shield
 
 *Referral before the informal panel* The Privacy Shield Implementing
 Decision\[72\] is meant to provide safeguards for the commercial
@@ -1136,7 +1136,7 @@ importantly, the Privacy Shield may be struck down by the ECJ as it
 fails to comply with the findings made by the Grand Chamber in the
 *Schrems* (C-362/14) ECJ, g. ch., Oct. 6, 2015 ruling\[74\].
 
-##### Potential Remedies Offered by the GDPR\[75\]
+#### Potential Remedies Offered by the GDPR\[75\]
 
 Likewise, the GDPR offers avenues to refer potential encroachments
 before an authority and, in fine, a judicial jurisdiction. The
@@ -1177,7 +1177,7 @@ controller if she could reasonably assume that the processor she had
 contracted with no longer presented the necessary technical securities
 to shield if from an plausible/expectable hack.
 
-#### B) Civil Law
+### B) Civil Law
 
 Aside from data protection law, the most promising avenue to enjoy an
 effective remedy could be through civil law.
@@ -1194,7 +1194,7 @@ unreasonably cumbersome and unfavourable one in such a case.
 Along with unpractical direct remedy avenues against services, one must
 ponder on indirect remedy avenues.
 
-##### The Insurance Sector
+#### The Insurance Sector
 
 *Dangerous promises for insurers* The insurance sector comes inevitably
 to mind. Insurance-wise there are two scenarios. Either the insurer is
@@ -1227,7 +1227,7 @@ These considerations beg the question: should the insurance sector be in
 charge of paying for the damages caused by the zero-days bought or
 discovered by governments with taxes?
 
-##### The IT Security Sector
+#### The IT Security Sector
 
 *The security sector stands out on matters of liability.* In
 Amalfitano’s book\[80\], he argues that the tortious liability of
@@ -1256,7 +1256,7 @@ due to their lack of education and know-how on the matter\[83\].
 In that sense it could appear possible for victims to invoke the
 company’s business liability, raising its plausible negligence.
 
-##### Thoughts on Free and Open Software
+#### Thoughts on Free and Open Software
 
 *A liable maintainance provider* However, the NHS Trusts episode being
 intertwined with the debate on EU countries’ dependency on
@@ -1299,7 +1299,7 @@ liability remains to be harmonised. It is so EU-wide as well as in the
 entire world, in particular when it is associated with sectors carrying
 international stakes.\[86\] The IT security sector being the priority.
 
-### Conclusion:
+## Conclusion:
 
 Even if the right to an effective remedy is soundly provided for in
 international, regional law and in European jurisdictions’ case-law,
@@ -1322,7 +1322,7 @@ indirect.
 
 <clearpage>
 
-## Illusory Compensations for Victims of Services’ Hacking or Hacking Tools
+# Illusory Compensations for Victims of Services’ Hacking or Hacking Tools
 
 In criminal law, judges sanction culprits with punitive damages. These
 damages are meant to mend the harm brought to society as a whole\[88\].
@@ -1343,9 +1343,9 @@ compensating victims of state hacking. Before doing so, the very notion
 of “victim” shall be examined, in general international law as well as
 in the context of intelligence services hacking.
 
-### 1\) Damages and Losses Suffered
+## 1\) Damages and Losses Suffered
 
-#### A) Typology of Victims
+### A) Typology of Victims
 
 *Definition of the term victim.* The UN’s Basic Principles and
 Guidelines on remedy and reparation define the notion of victim at
@@ -1354,7 +1354,7 @@ in this paper as it encompasses victims of mental harm, direct as well
 as indirect victims and it specifies that one does not need to be
 associated to a named perpetrator to be granted the status of victim.
 
-##### Direct Victims
+#### Direct Victims
 
 *Countries.* Countries are direct targets of cyberweapons comprising
 exploits. These weapons increasingly aim at critical infrastructure,
@@ -1399,7 +1399,7 @@ computer, that would at some point be connected to a programmable logic
 controller (PLC)\[96\] or infect the PLCs via a usb-key used to
 transport updates\[97\]. 
 
-##### Indirect Victims
+#### Indirect Victims
 
 Of all intelligence services CNE tools victims, the most numerous are
 the indirect ones.
@@ -1444,12 +1444,12 @@ assassination of civilians comes third-party damages suffered by the
 person’s relatives. These non-pecuniary losses should all be accounted
 for too. 
 
-#### B) Observed Damages: a Striking Diversity of Damages Caused
+### B) Observed Damages: a Striking Diversity of Damages Caused
 
 With this variety of victims comes a variety of damages
 caused.
 
-##### Damages Caused by the Launch of Cyberweapons by Intelligence Services or the Transfer of Sacking Tools by Services
+#### Damages Caused by the Launch of Cyberweapons by Intelligence Services or the Transfer of Sacking Tools by Services
 
 *The Stuxnet case.* In the case of Stuxnet, damages suffered were
 twofold. On the one hand there was the wreaking havoc of Natanz’s
@@ -1461,7 +1461,7 @@ had to struggle against the malware after its second launch by Israel
 went wrong and it spread globally\[102\]. Plus their customers
 world-wide.
 
-##### Damages Caused by the Stealth of Cyberweapons Developed by Intelligence Services
+#### Damages Caused by the Stealth of Cyberweapons Developed by Intelligence Services
 
 *The WannaCrypt case.* In the case of WannaCrypt the question of
 liability may be even more tedious as damages were caused by the stealth
@@ -1481,9 +1481,9 @@ incidentally begs for the recognition of victims’ right to be
 compensated and to obtain damages, for the stealth of cyberweapons is
 not ready to end.
 
-### 2\) Right to a Satisfactory Compensation
+## 2\) Right to a Satisfactory Compensation
 
-#### A) From a United Nations Perspective
+### A) From a United Nations Perspective
 
 *The right to reparation as a human right principle and a component of
 the effective remedy notion.* The aforementioned Principles and
@@ -1526,7 +1526,7 @@ of violations, the verification of facts, the public disclosure of the
 truth, public apologies, judicial and administrative sanctions and the
 inclusion of an accurate account of the violations\[104\].
 
-#### B) From a Criminal and Civil Law Perspective
+### B) From a Criminal and Civil Law Perspective
 
 From a criminal law point of view, conduct considered harmful to society
 ought to be prohibited by statute and associated with sanctions\[105\].
@@ -1549,7 +1549,7 @@ tremendously intrusive consequences. Consequences harmful to society as
 a whole, as well as often associated with property or non-pecuniary
 losses.
 
-#### C) European Case-law
+### C) European Case-law
 
 Article 41 of the ECHR provides that “\[i\]f the \[ECtHR\] Court finds
 that there has been a violation of the Convention or the Protocols
@@ -1600,7 +1600,7 @@ to mention the enormous losses inflicted to legal persons. In this
 paradigm shift symbolic nominal damages may hardly be regarded as
 sufficient.
 
-### 3\) Towards Securing Satisfactory Reparations
+## 3\) Towards Securing Satisfactory Reparations
 
 This last chapter ambitions to participate to the current academic
 debate on the recourse to state hacking, by way of insights on paths
@@ -1611,7 +1611,7 @@ victims with relief. To finish by an overview of potential improvements
 available to due process conditions in secret surveillance related
 cases.
 
-#### A) Which Redress Avenues to Choose and on What Grounds
+### A) Which Redress Avenues to Choose and on What Grounds
 
 As seen earlier, it seems there are or will soon be several potential
 remedy avenues available for cases related to intelligence services’
@@ -1660,7 +1660,7 @@ but meant to leave no evidence. As a result, the due process principle,
 when applied to hacking pertaining to intelligence services, shall
 encompass particular guarantees.
 
-#### B) Honing Due Process Conditions
+### B) Honing Due Process Conditions
 
 Possible victims of hacking must be granted particular procedural
 attention. This can be inferred from article 4 of the EU directive
@@ -1673,7 +1673,7 @@ devoted to investigations and digital forensic as well as substantially
 lightened standing criterion to assess harm. Yet to ensure due process
 in this type of cases prior safeguards must be secured as well.
 
-##### Investigations: Crucial on Hacking Cases
+#### Investigations: Crucial on Hacking Cases
 
 *Basic principles regarding evidence are hindered* The expert report on
 the use of secrecy in proceeding in Europe concluded that “the reliance
@@ -1751,7 +1751,7 @@ transparency, publication of sanctions could provide an effective
 incentive for companies not to engage in such
 activities.
 
-##### Standing and Notification of Harm: a Prerequisite for a Satisfactory Compensation?
+#### Standing and Notification of Harm: a Prerequisite for a Satisfactory Compensation?
 
 In order to secure access to remedies for victims, they must be given
 effective access to counsel. If the lack of evidences makes it
@@ -1799,7 +1799,7 @@ the same token, gagging orders shall be accompanied with the duty for
 services to let persons and legal persons participate to transparence
 reports after some time. This is critical to mend the public’s distrust.
 
-##### Right to Information Earlier On
+#### Right to Information Earlier On
 
 *Knowing violations and remedy avenues exist* Last but not least,
 pursuant to article 11(c) of the aforementioned UN Guidelines of 2005,
@@ -1811,7 +1811,7 @@ practically aware of means to redress such violations.
 
 <clearpage>
 
-### Conclusion
+## Conclusion
 
 The basic effective remedy principle, even if robustly enshrined in
 international and regional law and case-law, can barely be said to be
@@ -1855,15 +1855,15 @@ hand with national laws imposing clear and precise purposes\[118\]
 firmly limiting access requests made by services to the private sector.
 To be legitimate, such requests must be subject to judicial approval. 
 
-## Bibliography
+# Bibliography
 
-## Reference List
+# Reference List
 
-### Legal Instruments
+## Legal Instruments
 
-#### International
+### International
 
-##### General International Law
+#### General International Law
 
   - Basic Principles and Guidelines on the Right to a Remedy and
     Reparation for Victims of Gross Violations of International Human
@@ -1875,16 +1875,16 @@ To be legitimate, such requests must be subject to judicial approval.
   - Universal Declaration of Human Rights (adopted 10 December 1948)
     UNGA Res 217 A(III) (UDHR)
 
-##### Cybercrime
+#### Cybercrime
 
   - Convention on Cybercrime (adopted 23 November 2001, entered into
     force 1 July 2004), ETS N° 185
   - Explanatory report to the Convention on Cybercrime (Budapest, 23
     November 2001) ETS N° 185
 
-#### Regional
+### Regional
 
-##### EU Hard and Soft Law
+#### EU Hard and Soft Law
 
   - Charter of Fundamental Rights of the European Union, 2012/C 326/02
     (EU Charter)
@@ -1903,13 +1903,13 @@ To be legitimate, such requests must be subject to judicial approval.
     Exploring the Challenges” Directorate General for Internal Policies
     of the European Parliament (Brussels, September 2014) PE 509.991
 
-##### African Law
+#### African Law
 
   - African Charter on Human and Peoples’ Rights (adopted 27 June 1981,
     entered into force 21 October 1986) (1982) 21 ILM 58 (African
     Charter, ACHPR)
 
-#### National
+### National
 
   - French Intelligence Act (loi relative au renseignement), law n°
     2015-912, 2015 codified in Book VIII, France’s Interior Security
@@ -1921,12 +1921,12 @@ To be legitimate, such requests must be subject to judicial approval.
   - French Penal Code
   - French Administrative Justice Code
 
-### Intergovernmental Organisations
+## Intergovernmental Organisations
 
   - Annual report of the United Nations High Commissioner for Human
     Rights (UNHCHR) A/HRC/27/37, 30 June 2014
 
-### Books
+## Books
 
   - Amalfitano A., *La responsabilité pénale des personnes morales en
     Europe | Une recherche pour la construction d’un modèle commun*
@@ -1945,7 +1945,7 @@ To be legitimate, such requests must be subject to judicial approval.
   - Zetter K., *Countdown to zero-day* (Crown Publishers New York, New
     York, 2014)
 
-### Legal Briefs, Witness Statements and Opinions
+## Legal Briefs, Witness Statements and Opinions
 
   - La Quadrature du Net, FFDN and FDN v Prime Minister, *Mémoire en
     réplique* on the Decree N° 2015-1185 (*to be published in July
@@ -1958,17 +1958,17 @@ To be legitimate, such requests must be subject to judicial approval.
   - King E., Witness Statement for Privacy International, cases No. IPT
     14/85/CH and No. IPT 14/120-126/CH (London, 5 Octobre 2015)
 
-### Statements Before Parliament
+## Statements Before Parliament
 
   - Declaration of Mr. Delon to the French Senate on the 10 February
     2016
 
-### Law Reviews
+## Law Reviews
 
   - Tracol X., “EU–U.S. Privacy Shield: The saga continues”, Computer
     Law & Security Review, volume 32 (2016)
 
-### Conferences and Lessons
+## Conferences and Lessons
 
   - Pouillot P., Senior Underwriter, “Les conséquences et la nécessité
     d’être bien assuré : la relation entre le RSSI et les assurances”,
@@ -1977,7 +1977,7 @@ To be legitimate, such requests must be subject to judicial approval.
   - Quéméner M., “Cybercriminalité” lessons, *Faculty of Law of the
     Versailles University* (Versailles, February 2017)
 
-### Newspaper articles
+## Newspaper articles
 
   - Ball, J. “Angry Birds and ‘leaky’ phone apps targeted by NSA and
     GCHQ for user data” *the Guardian* (London, 28 January 2014)
@@ -2023,14 +2023,14 @@ To be legitimate, such requests must be subject to judicial approval.
   - Zetter K. “Inside the Cunning, Unprecedented Hack of Ukraine’s Power
     Grid” *Wired* (3 March 2016)
 
-### Cybersecurity Experts Articles
+## Cybersecurity Experts Articles
 
   - Research team of the Kaspersky Lab “Animals in the APT Farm”
     (Russia, 6 March 2015)
   - Paganini P. “Dino Malware that targeting Iran belong to Animal
     Farm’s arsenal” (Brussels, 1 July 2015)
 
-### Leaks
+## Leaks
 
   - Snowden revelations (2014) (at
     <https://search.edwardsnowden.com/docs/MobileNetworksinMyNOCWorld2014-12-13nsadocs>)
@@ -2039,28 +2039,28 @@ To be legitimate, such requests must be subject to judicial approval.
   - Wikileaks, “Vault 7: CIA Hacking Tools Revealed” (press release, 7
     March 2017)
 
-### Technical Documentation
+## Technical Documentation
 
   - The GNU/Linux Distribution Timeline 12.10, available at
     <http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.png>
 
-### Civil Society Documents
+## Civil Society Documents
 
   - Unofficial translation made by the volunteers of French organisation
     La Quadrature du Net of the 8th Book of France’s Internal Security
     Code (ISC). Translation is available at
     <https://wiki.laquadrature.net/French_Intelligence_Laws>
 
-### Miscellaneous
+## Miscellaneous
 
   - Article of the Exegetes, “How to Check You Have Not Been Subject to
     Undue Surveillance” (Paris, soon to be published)
 
-### Websites
+## Websites
 
   - Axa’s : <https://entreprise.axa.fr>
 
-### Case-law
+## Case-law
 
 <div id="refs">
 
@@ -2176,7 +2176,7 @@ Constitutional Council, Nov. 26, 2015
 
 </div>
 
-## Acronyms
+# Acronyms
 
   - ACHPR  
     African Charter on Human and Peoples’ Rights
