@@ -34,13 +34,13 @@ accessible: they had been encrypted\[1\]. Instead, NHS staff saw a
 strange pop-up window replacing patient records, demanding a 300$ ransom
 per machine, accompanied by a spine-chilling warning:
 
-> <Llapen>Many of your documents, photos, videos, databases and other
-> files are no longer accessible because they have been encrypted. Maybe
-> you are busy looking for a way to recover your files, but do not waste
-> your time. Nobody can recover your files without our decryption
-> service. \[…\] You only have 3 days to submit the payment. After that
-> the price will be doubled. Also if you don’t pay in 7 days, you won’t
-> be able to recover your files forever.”
+> “Many of your documents, photos, videos, databases and other files are
+> no longer accessible because they have been encrypted. Maybe you are
+> busy looking for a way to recover your files, but do not waste your
+> time. Nobody can recover your files without our decryption service.
+> \[…\] You only have 3 days to submit the payment. After that the
+> price will be doubled. Also if you don’t pay in 7 days, you won’t be
+> able to recover your files forever.”
 
 In few hours, 47 trusts had been hit. In the course of the week-end, 150
 countries suffered computer infections\[2\].
@@ -241,9 +241,9 @@ foremost interest as they go exhaustively in details. The UN General
 Assembly opens its 60/147 Resolution adopting the Basic Principles and
 Guidelines on remedy and reparation by recommending that:
 
-> <Llapen>States take the Basic Principles and Guidelines into account,
-> promote respect thereof and bring them to the attention of members of
-> the executive bodies of government, in particular law enforcement
+> “States take the Basic Principles and Guidelines into account, promote
+> respect thereof and bring them to the attention of members of the
+> executive bodies of government, in particular law enforcement
 > officials and military and security forces \[…\].”
 
 This recommendation’s wording is circumstantial to introduce this study
@@ -2384,9 +2384,9 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>Everyone has the right to an effective remedy by the
-    competent national tribunals for acts violating the fundamental
-    rights granted him by the constitution or by law.”
+    “Everyone has the right to an effective remedy by the competent
+    national tribunals for acts violating the fundamental rights granted
+    him by the constitution or by law.”
     
     </div>
 
@@ -2397,20 +2397,18 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>If they have not already done so, States shall, as required
-    under international law, ensure that their domestic law is
-    consistent with their international legal obligations by:
-    <Llapen>(a) Incorporating norms of international human rights law
-    and international humanitarian law into their domestic law, or
-    otherwise implementing them in their domestic legal system;
-    <Llapen>(b) Adopting appropriate and effective legislative and
-    administrative procedures and other appropriate measures that
-    provide fair, effective and prompt access to justice; <Llapen>(c)
-    Making available adequate, effective, prompt and appropriate
-    remedies, including reparation, as defined below; <Llapen>(d)
-    Ensuring that their domestic law provides at least the same level of
-    protection for victims as that required by their international
-    obligations.”
+    “If they have not already done so, States shall, as required under
+    international law, ensure that their domestic law is consistent with
+    their international legal obligations by: “(a) Incorporating norms
+    of international human rights law and international humanitarian law
+    into their domestic law, or otherwise implementing them in their
+    domestic legal system; “(b) Adopting appropriate and effective
+    legislative and administrative procedures and other appropriate
+    measures that provide fair, effective and prompt access to justice;
+    “(c) Making available adequate, effective, prompt and appropriate
+    remedies, including reparation, as defined below; “(d) Ensuring that
+    their domestic law provides at least the same level of protection
+    for victims as that required by their international obligations.”
     
     </div>
 
@@ -2420,20 +2418,18 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>If they have not already done so, States shall, as required
-    under international law, ensure that their domestic law is
-    consistent with their international legal obligations by:
-    <Llapen>(a) Incorporating norms of international human rights law
-    and international humanitarian law into their domestic law, or
-    otherwise implementing them in their domestic legal system;
-    <Llapen>(b) Adopting appropriate and effective legislative and
-    administrative procedures and other appropriate measures that
-    provide fair, effective and prompt access to justice; <Llapen>(c)
-    Making available adequate, effective, prompt and appropriate
-    remedies, including reparation, as defined below; <Llapen>(d)
-    Ensuring that their domestic law provides at least the same level of
-    protection for victims as that required by their international
-    obligations.”
+    “If they have not already done so, States shall, as required under
+    international law, ensure that their domestic law is consistent with
+    their international legal obligations by: “(a) Incorporating norms
+    of international human rights law and international humanitarian law
+    into their domestic law, or otherwise implementing them in their
+    domestic legal system; “(b) Adopting appropriate and effective
+    legislative and administrative procedures and other appropriate
+    measures that provide fair, effective and prompt access to justice;
+    “(c) Making available adequate, effective, prompt and appropriate
+    remedies, including reparation, as defined below; “(d) Ensuring that
+    their domestic law provides at least the same level of protection
+    for victims as that required by their international obligations.”
     
     </div>
 
@@ -2441,14 +2437,13 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>The obligation to respect, ensure respect for and implement
+    “The obligation to respect, ensure respect for and implement
     international human rights law and international humanitarian law as
     provided for under the respective bodies of law, includes, inter
-    alia, the duty to: <Llapen>(c) Provide those who claim to be victims
-    of a human rights or humanitarian law violation with equal and
-    effective access to justice, as described below, irrespective of who
-    may ultimately be the bearer of responsibility for the
-    violation;\[…\]”
+    alia, the duty to: “(c) Provide those who claim to be victims of a
+    human rights or humanitarian law violation with equal and effective
+    access to justice, as described below, irrespective of who may
+    ultimately be the bearer of responsibility for the violation;\[…\]”
     
     </div>
     
@@ -2456,13 +2451,13 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>Remedies for gross violations of international human rights
-    law and serious violations of international humanitarian law include
-    the victim’s right to the following as provided for under
-    international law: <Llapen>(a) Equal and effective access to
-    justice; <Llapen>(b) Adequate, effective and prompt reparation for
-    harm suffered; <Llapen>(c) Access to relevant information concerning
-    violations and reparation mechanisms.”
+    “Remedies for gross violations of international human rights law and
+    serious violations of international humanitarian law include the
+    victim’s right to the following as provided for under international
+    law: “(a) Equal and effective access to justice; “(b) Adequate,
+    effective and prompt reparation for harm suffered; “(c) Access to
+    relevant information concerning violations and reparation
+    mechanisms.”
     
     </div>
 
@@ -2470,7 +2465,7 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>\[I\]t is understood that the present Basic Principles and
+    “\[I\]t is understood that the present Basic Principles and
     Guidelines are without prejudice to the right to a remedy and
     reparation for victims of all violations of international human
     rights law and international humanitarian law.”
@@ -2484,16 +2479,16 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>(a) To ensure that any person whose rights or freedoms as
-    herein recognized are violated shall have an effective remedy,
+    “(a) To ensure that any person whose rights or freedoms as herein
+    recognized are violated shall have an effective remedy,
     notwithstanding that the violation has been committed by persons
-    acting in an official capacity; <Llapen>(b) To ensure that any
-    person claiming such a remedy shall have his right thereto
-    determined by competent judicial, administrative or legislative
-    authorities, or by any other competent authority provided for by the
-    legal system of the State, and to develop the possibilities of
-    judicial remedy; <Llapen>(c) To ensure that the competent
-    authorities shall enforce such remedies when granted.”
+    acting in an official capacity; “(b) To ensure that any person
+    claiming such a remedy shall have his right thereto determined by
+    competent judicial, administrative or legislative authorities, or by
+    any other competent authority provided for by the legal system of
+    the State, and to develop the possibilities of judicial remedy; “(c)
+    To ensure that the competent authorities shall enforce such remedies
+    when granted.”
     
     </div>
 
@@ -2501,16 +2496,16 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>(a) To ensure that any person whose rights or freedoms as
-    herein recognized are violated shall have an effective remedy,
+    “(a) To ensure that any person whose rights or freedoms as herein
+    recognized are violated shall have an effective remedy,
     notwithstanding that the violation has been committed by persons
-    acting in an official capacity; <Llapen>(b) To ensure that any
-    person claiming such a remedy shall have his right thereto
-    determined by competent judicial, administrative or legislative
-    authorities, or by any other competent authority provided for by the
-    legal system of the State, and to develop the possibilities of
-    judicial remedy; <Llapen>(c) To ensure that the competent
-    authorities shall enforce such remedies when granted.”
+    acting in an official capacity; “(b) To ensure that any person
+    claiming such a remedy shall have his right thereto determined by
+    competent judicial, administrative or legislative authorities, or by
+    any other competent authority provided for by the legal system of
+    the State, and to develop the possibilities of judicial remedy; “(c)
+    To ensure that the competent authorities shall enforce such remedies
+    when granted.”
     
     </div>
 
@@ -2520,10 +2515,10 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>Everyone whose rights and freedoms as set forth in this
-    Convention are violated shall have an effective remedy before a
-    national authority notwithstanding that the violation has been
-    committed by persons acting in an official capacity.”
+    “Everyone whose rights and freedoms as set forth in this Convention
+    are violated shall have an effective remedy before a national
+    authority notwithstanding that the violation has been committed by
+    persons acting in an official capacity.”
     
     </div>
 
@@ -2533,15 +2528,15 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>Everyone whose rights and freedoms guaranteed by the law of
-    the Union are violated has the right to an effective remedy before a
+    “Everyone whose rights and freedoms guaranteed by the law of the
+    Union are violated has the right to an effective remedy before a
     tribunal in compliance with the conditions laid down in this
-    Article. <Llapen>Everyone is entitled to a fair and public hearing
-    within a reasonable time by an independent and impartial tribunal
-    previously established by law. Everyone shall have the possibility
-    of being advised, defended and represented. <Llapen>Legal aid shall
-    be made available to those who lack sufficient resources in so far
-    as such aid is necessary to ensure effective access to justice.”
+    Article. “Everyone is entitled to a fair and public hearing within a
+    reasonable time by an independent and impartial tribunal previously
+    established by law. Everyone shall have the possibility of being
+    advised, defended and represented. “Legal aid shall be made
+    available to those who lack sufficient resources in so far as such
+    aid is necessary to ensure effective access to justice.”
     
     </div>
 
@@ -2552,10 +2547,10 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>The Commission can only deal with a matter submitted to it
-    after making sure that all local remedies, if they exist, have been
-    ex- hausted, unless it is obvious to the Commission that the
-    procedure of achieving these remedies would be unduly prolonged.”
+    “The Commission can only deal with a matter submitted to it after
+    making sure that all local remedies, if they exist, have been ex-
+    hausted, unless it is obvious to the Commission that the procedure
+    of achieving these remedies would be unduly prolonged.”
     
     </div>
 
@@ -2640,19 +2635,18 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>I.- In accordance with Chapter I of Part II of this book,
-    when intelligence cannot be collected by any other legally
-    authorised mean, usage of technical devices may be authorised as to
-    allow: <Llapen>1. To access computer data stored in a computer
-    system, to collect, retain and transmit it; <Llapen>2. To access
-    computer data, to collect, retain and transmit it, as it is
-    displayed onscreen for the user of an automated data processing
-    system, as it is entered by keystrokes or as received and
-    transmitted by audiovisual peripheral devices. <Llapen>II.- By
-    derogation from Article L. 821-4, authorisation to deploy techniques
-    mentioned in 1 of I of the present Article is issued for a maximum
-    period of thirty days and the one mentioned in paragraph 2 of the
-    same I for a maximum period of two months. Authorisation is
+    “I.- In accordance with Chapter I of Part II of this book, when
+    intelligence cannot be collected by any other legally authorised
+    mean, usage of technical devices may be authorised as to allow: “1.
+    To access computer data stored in a computer system, to collect,
+    retain and transmit it; “2. To access computer data, to collect,
+    retain and transmit it, as it is displayed onscreen for the user of
+    an automated data processing system, as it is entered by keystrokes
+    or as received and transmitted by audiovisual peripheral devices.
+    “II.- By derogation from Article L. 821-4, authorisation to deploy
+    techniques mentioned in 1 of I of the present Article is issued for
+    a maximum period of thirty days and the one mentioned in paragraph 2
+    of the same I for a maximum period of two months. Authorisation is
     renewable under the same conditions of duration.” \[*Note: The two
     Intelligence Acts of 2015 have not been officially translated. This
     is the unofficial translation made by the volunteers of French
@@ -2669,22 +2663,21 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>Article 323-1 (excerpts): <Llapen>Fraudulently accessing or
-    remaining within all or part of an automated data processing system
-    is punished by two year’s imprisonment and a fine of €60,000.
-    <Llapen>Where this behaviour causes the suppression or modification
-    of data contained in that system, or any alteration of the
-    functioning of that system, the sentence is three years’
-    imprisonment and a fine of €100,000. <Llapen>Article 323-2
-    (excerpts): <Llapen>Obstructing or interfering with the functioning
-    of an automated data processing system is punished by five years’
-    imprisonment and a fine of €150,000. <Llapen>Article 323-3
-    (excerpts): <Llapen>The fraudulent introduction of data into an
-    automated data processing system, \[extraction, retention,
+    “Article 323-1 (excerpts): “Fraudulently accessing or remaining
+    within all or part of an automated data processing system is
+    punished by two year’s imprisonment and a fine of €60,000. “Where
+    this behaviour causes the suppression or modification of data
+    contained in that system, or any alteration of the functioning of
+    that system, the sentence is three years’ imprisonment and a fine of
+    €100,000. “Article 323-2 (excerpts): “Obstructing or interfering
+    with the functioning of an automated data processing system is
+    punished by five years’ imprisonment and a fine of €150,000.
+    “Article 323-3 (excerpts): “The fraudulent introduction of data
+    into an automated data processing system, \[extraction, retention,
     reproduction transmission,\] or the fraudulent deletion or
     modification of the data that it contains is punished by five years’
-    imprisonment and a fine of €150,000.” <Llapen>*Note of the author:
-    The words in bracket in Article 323-3 have been added by the law n°
+    imprisonment and a fine of €150,000.” “*Note of the author: The
+    words in bracket in Article 323-3 have been added by the law n°
     2014-1353 of 13 November 2014 and have not yet been officially
     translated*.
     
@@ -2720,7 +2713,7 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>This chapter shall not apply to measures implemented by the
+    “This chapter shall not apply to measures implemented by the
     authorized agents of the State services designated by the Prime
     Minister’s Order from among the specialized intelligence services
     mentioned in Article L. 811-2 of the Code of Civil Procedure. To
@@ -2734,7 +2727,7 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>A person who, without legitimate motive, imports, possesses,
+    “A person who, without legitimate motive, imports, possesses,
     offers, transfers or makes available any equipment, instrument,
     computer program or information created or specially adapted to
     commit one or more of the offences prohibited by Articles 323-1 to
@@ -2755,19 +2748,19 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>\[…\] <Llapen>4. May request from the Prime Minister any
-    elements necessary for the accomplishment of its missions, including
-    when the deployed intelligence-gathering technique has neither been
-    requested nor authorised or does not meet the traceability
-    requirements, except for elements provided by foreign agencies or by
-    international bodies or that may give knowledge to the Commission,
-    directly or indirectly, of the identity of the sources of the
-    specialised intelligence services;” <Llapen>\[*Note: The two
-    Intelligence Acts of 2015 have not been officially translated. This
-    is the unofficial translation made by the volunteers of French
-    organisation La Quadrature du Net of the entire 8th Book of France’s
-    Internal Security Code (ISC), where most of the Intelligence Acts’
-    provisions have been codified. Translation is available at
+    “\[…\] “4. May request from the Prime Minister any elements
+    necessary for the accomplishment of its missions, including when the
+    deployed intelligence-gathering technique has neither been requested
+    nor authorised or does not meet the traceability requirements,
+    except for elements provided by foreign agencies or by international
+    bodies or that may give knowledge to the Commission, directly or
+    indirectly, of the identity of the sources of the specialised
+    intelligence services;” “\[*Note: The two Intelligence Acts of 2015
+    have not been officially translated. This is the unofficial
+    translation made by the volunteers of French organisation La
+    Quadrature du Net of the entire 8th Book of France’s Internal
+    Security Code (ISC), where most of the Intelligence Acts’ provisions
+    have been codified. Translation is available at
     <https://wiki.laquadrature.net/French_Intelligence_Laws>*\]
     
     </div>
@@ -2781,15 +2774,15 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>On its own initiative or by request of any person wishing to
-    verify that no surveillance measure is irregularly being performed
-    against them, the Commission shall ensure that the measures
-    implemented under this chapter meet the conditions that it specifies
-    as well as those defined by the regulations made thereunder and the
-    decisions and authorisations of the Prime Minister or his delegates.
-    It shall notify the claimant that it has carried out the necessary
-    checks, without confirming nor denying the deployment of
-    surveillance measures.”
+    “On its own initiative or by request of any person wishing to verify
+    that no surveillance measure is irregularly being performed against
+    them, the Commission shall ensure that the measures implemented
+    under this chapter meet the conditions that it specifies as well as
+    those defined by the regulations made thereunder and the decisions
+    and authorisations of the Prime Minister or his delegates. It shall
+    notify the claimant that it has carried out the necessary checks,
+    without confirming nor denying the deployment of surveillance
+    measures.”
     
     </div>
 
@@ -2797,24 +2790,23 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>Subject to provisions included in article L. 854-9 of this
-    text, the Council of State is competent, under conditions laid down
-    in chapter III bis of title VII of book VII of the administrative
+    “Subject to provisions included in article L. 854-9 of this text,
+    the Council of State is competent, under conditions laid down in
+    chapter III bis of title VII of book VII of the administrative
     justice code, for requests concerning the deployment of
     intelligence-gathering techniques specified in title V of this book.
-    Cases may be brought before the Council of State by: <Llapen>1. Any
-    person wishing to ascertain that no intelligence practice is carried
-    out improperly against them, after prior recourse to the procedure
-    set out in article L. 833-4; <Llapen>2. The National Oversight
-    Commission for Intelligence-Gathering Techniques, as established by
-    the provisions in article L. 833-8. When a legal proceeding or
-    dispute whose resolution depends upon the examination of the
-    lawfulness of one or more intelligence gathering practices is
-    brought before an administrative court or a judicial authority, it
-    can, on its own initiative or upon request of one of the involved
-    parties, refer to the Council of State for a preliminary ruling. The
-    Council of State shall issue a decision within a month of the
-    referral.”
+    Cases may be brought before the Council of State by: “1. Any person
+    wishing to ascertain that no intelligence practice is carried out
+    improperly against them, after prior recourse to the procedure set
+    out in article L. 833-4; “2. The National Oversight Commission for
+    Intelligence-Gathering Techniques, as established by the provisions
+    in article L. 833-8. When a legal proceeding or dispute whose
+    resolution depends upon the examination of the lawfulness of one or
+    more intelligence gathering practices is brought before an
+    administrative court or a judicial authority, it can, on its own
+    initiative or upon request of one of the involved parties, refer to
+    the Council of State for a preliminary ruling. The Council of State
+    shall issue a decision within a month of the referral.”
     
     </div>
 
@@ -2920,10 +2912,10 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>1. Any person who has suffered material or non-material
-    damage as a result of an infringement of this Regulation shall have
-    the right to receive compensation from the controller or processor
-    for the damage suffered.”
+    “1. Any person who has suffered material or non-material damage as a
+    result of an infringement of this Regulation shall have the right to
+    receive compensation from the controller or processor for the damage
+    suffered.”
     
     </div>
 
@@ -2979,20 +2971,20 @@ Constitutional Council, Nov. 26, 2015
     
     <div class="loi">
     
-    <Llapen>8. For purposes of the present document, victims are persons
-    who individually or collectively suffered harm, including physical
-    or mental injury, emotional suffering, economic loss or substantial
+    “8. For purposes of the present document, victims are persons who
+    individually or collectively suffered harm, including physical or
+    mental injury, emotional suffering, economic loss or substantial
     impairment of their fundamental rights, through acts or omissions
     that constitute gross violations of international human rights law,
     or serious violations of international humanitarian law. Where
     appropriate, and in accordance with domestic law, the term “victim”
     also includes the immediate family or dependants of the direct
     victim and persons who have suffered harm in intervening to assist
-    victims in distress or to prevent victimization. <Llapen>9. A person
-    shall be considered a victim regardless of whether the perpetrator
-    of the violation is identified, apprehended, prosecuted, or
-    convicted and regardless of the familial relationship between the
-    perpetrator and the victim.”
+    victims in distress or to prevent victimization. “9. A person shall
+    be considered a victim regardless of whether the perpetrator of the
+    violation is identified, apprehended, prosecuted, or convicted and
+    regardless of the familial relationship between the perpetrator and
+    the victim.”
     
     </div>
 
@@ -3090,10 +3082,10 @@ Constitutional Council, Nov. 26, 2015
      
      <div class="loi">
      
-     <Llapen>Each Party shall adopt such legislative and other measures
-     as may be necessary to establish the powers and procedures provided
-     for in this section for the purpose of specific criminal
-     investigations or proceedings.”
+     “Each Party shall adopt such legislative and other measures as may
+     be necessary to establish the powers and procedures provided for in
+     this section for the purpose of specific criminal investigations or
+     proceedings.”
      
      </div>
 
